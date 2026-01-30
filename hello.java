@@ -26,13 +26,13 @@ public class hello {
         System.out.println("Day of Month: " + date.getDayOfMonth());
         System.out.println("Month: " + date.getMonth());
         System.out.println("Year: " + date.getYear());
-        System.out.println("Month: " + date.getMonth());
         System.out.println("Day of Year: " + date.getDayOfYear());
         
         // Check if it's a leap year
         boolean isLeapYear = date.isLeapYear();
         System.out.println("Is 2026 a Leap Year: " + isLeapYear);
-        System.out.println("Is 2026 a Leap Year: " + Neeraj get a job devops in feb 2026 first week );
 
+        // MISTAKE FIXED HERE: Added quotation marks
+        System.out.println("Goal: Neeraj will get a DevOps job in Feb 2026 first week!");
     }
 }
